@@ -1,4 +1,4 @@
-Hi there!!! 
+Hi there!
 I'm **Vaaghu** 👋<br/>
 I'm an aspiring data scientist with a **strong interest in the field of data**.<br/> 
 Self-learning to upskill myself in **data analysis, statistics, machine learning, and data visualization**.<br/>
