@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # 03:00 JST == 18:00 UTC
-    - cron: "15 */12 * * *"
+    - cron: "0 18 * * *"
   workflow_dispatch:
 
 jobs:
@@ -12,10 +12,10 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
-      - name: Commit & push
-        env: # Set the secret as an input
+        env:
           GITHUB_TOKEN: ${{ secrets.PAT }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
