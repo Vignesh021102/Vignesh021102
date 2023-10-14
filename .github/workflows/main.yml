@@ -12,6 +12,8 @@ jobs:
       GITHUB_TOKEN: ${{secrets.PAT}}
       USERNAME: ${{ github.repository_owner }}
     steps:
+      - name: Check
+        run: echo "PAT ${{env.GITHUB_TOKEN}} ${{secrets.PAT}}"
       - uses: actions/checkout@v3
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
       - name: Commit & Push
