@@ -5,12 +5,12 @@ Self-learning to upskill myself in **data analysis, statistics, machine learning
 **Enthusiastic** and always **eager to learn and improve** in this constantly-evolving field.<br/>
 
 <br><br>
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaaghu&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-<!-- ![overAll](https://github.com/vaaghu/vaaghu/blob/main/profile-3d-contrib/profile-night-rainbow.svg)-->
+<!-- ![graph](https://github-readme-activity-graph.vercel.app/graph?username=vaaghu&bg_color=black&color=aaa&line=280137&point=330642&area=false&hide_border=true) -->
+![overAll](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![stats](https://github-readme-stats.vercel.app/api?username=vaaghu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true)
+![stats](https://github-readme-stats.vercel.app/api?username=vaaghu&theme=midnight-purple&hide_border=false&count_private=true)
 ![commit](https://github-readme-streak-stats.herokuapp.com/?user=vaaghu&theme=midnight-purple&hide_border=false)<br/>
-![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaghu&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![lang](https://github-readme-stats.vercel.app/api/top-langs/?username=vaaghu&hide_progress=true&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=vaaghu&margin-w=20&theme=midnight-purple)
 
