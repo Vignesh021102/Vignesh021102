@@ -6,7 +6,9 @@ Self-learning to upskill myself in **data analysis, statistics, machine learning
 
 <br><br>
 <!-- ![graph](https://github-readme-activity-graph.vercel.app/graph?username=vaaghu&bg_color=black&color=aaa&line=280137&point=330642&area=false&hide_border=true) -->
-![overAll](./profile-3d-contrib/profile-night-rainbow.svg)
+
+<img src="https://raw.github.com/vaaghu/vaaghu/blob/main/profile-3d-contrib/profile-night-rainbow.svg?sanitize=true" />
+
 
 ![stats](https://github-readme-stats.vercel.app/api?username=vaaghu&theme=midnight-purple&hide_border=false&count_private=true)
 ![commit](https://github-readme-streak-stats.herokuapp.com/?user=vaaghu&theme=midnight-purple&hide_border=false)<br/>
